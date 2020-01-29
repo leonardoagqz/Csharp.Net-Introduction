@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\CourseSaidadeDados\CourseSaidadeDados\bin\Debug\netcoreapp3.0\CourseSaidadeDados.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\CourseSaidadeDados\CourseSaidadeDados\bin\Debug\netcoreapp3.0\CourseSaidadeDados.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\CourseSaidadeDados\CourseSaidadeDados\bin\Debug\netcoreapp3.0\CourseSaidadeDados.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\CourseSaidadeDados\CourseSaidadeDados\bin\Debug\netcoreapp3.0\CourseSaidadeDados.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\CourseSaidadeDados\CourseSaidadeDados\bin\Debug\netcoreapp3.0\CourseSaidadeDados.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\CourseSaidadeDados\CourseSaidadeDados\bin\Debug\netcoreapp3.0\CourseSaidadeDados.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\CourseSaidadeDados\CourseSaidadeDados\obj\Debug\netcoreapp3.0\CourseSaidadeDados.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\CourseSaidadeDados\CourseSaidadeDados\obj\Debug\netcoreapp3.0\CourseSaidadeDados.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\CourseSaidadeDados\CourseSaidadeDados\obj\Debug\netcoreapp3.0\CourseSaidadeDados.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\CourseSaidadeDados\CourseSaidadeDados\obj\Debug\netcoreapp3.0\CourseSaidadeDados.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\CourseSaidadeDados\CourseSaidadeDados\obj\Debug\netcoreapp3.0\CourseSaidadeDados.pdb

@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\ws-vs2019\Primeiro\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\ws-vs2019\Primeiro\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\ws-vs2019\Primeiro\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\ws-vs2019\Primeiro\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\ws-vs2019\Primeiro\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\ws-vs2019\Primeiro\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\ws-vs2019\Primeiro\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\ws-vs2019\Primeiro\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\ws-vs2019\Primeiro\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\ws-vs2019\Primeiro\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\ws-vs2019\Primeiro\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.pdb

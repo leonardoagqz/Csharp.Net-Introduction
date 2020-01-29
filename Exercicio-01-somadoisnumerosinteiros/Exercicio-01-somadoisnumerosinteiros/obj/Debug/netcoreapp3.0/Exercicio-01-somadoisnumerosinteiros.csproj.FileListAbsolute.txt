@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-01-somadoisnumerosinteiros\Exercicio-01-somadoisnumerosinteiros\bin\Debug\netcoreapp3.0\Exercicio-01-somadoisnumerosinteiros.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-01-somadoisnumerosinteiros\Exercicio-01-somadoisnumerosinteiros\bin\Debug\netcoreapp3.0\Exercicio-01-somadoisnumerosinteiros.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-01-somadoisnumerosinteiros\Exercicio-01-somadoisnumerosinteiros\bin\Debug\netcoreapp3.0\Exercicio-01-somadoisnumerosinteiros.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-01-somadoisnumerosinteiros\Exercicio-01-somadoisnumerosinteiros\bin\Debug\netcoreapp3.0\Exercicio-01-somadoisnumerosinteiros.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-01-somadoisnumerosinteiros\Exercicio-01-somadoisnumerosinteiros\bin\Debug\netcoreapp3.0\Exercicio-01-somadoisnumerosinteiros.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-01-somadoisnumerosinteiros\Exercicio-01-somadoisnumerosinteiros\bin\Debug\netcoreapp3.0\Exercicio-01-somadoisnumerosinteiros.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-01-somadoisnumerosinteiros\Exercicio-01-somadoisnumerosinteiros\obj\Debug\netcoreapp3.0\Exercicio-01-somadoisnumerosinteiros.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-01-somadoisnumerosinteiros\Exercicio-01-somadoisnumerosinteiros\obj\Debug\netcoreapp3.0\Exercicio-01-somadoisnumerosinteiros.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-01-somadoisnumerosinteiros\Exercicio-01-somadoisnumerosinteiros\obj\Debug\netcoreapp3.0\Exercicio-01-somadoisnumerosinteiros.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-01-somadoisnumerosinteiros\Exercicio-01-somadoisnumerosinteiros\obj\Debug\netcoreapp3.0\Exercicio-01-somadoisnumerosinteiros.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-01-somadoisnumerosinteiros\Exercicio-01-somadoisnumerosinteiros\obj\Debug\netcoreapp3.0\Exercicio-01-somadoisnumerosinteiros.pdb

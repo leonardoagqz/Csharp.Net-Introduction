@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Operadores Aritimeticos\Operadores Aritimeticos\obj\Debug\netcoreapp3.0\Operadores Aritimeticos.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Operadores Aritimeticos\Operadores Aritimeticos\obj\Debug\netcoreapp3.0\Operadores Aritimeticos.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Operadores Aritimeticos\Operadores Aritimeticos\obj\Debug\netcoreapp3.0\Operadores Aritimeticos.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Operadores Aritimeticos\Operadores Aritimeticos\bin\Debug\netcoreapp3.0\Operadores Aritimeticos.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Operadores Aritimeticos\Operadores Aritimeticos\bin\Debug\netcoreapp3.0\Operadores Aritimeticos.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Operadores Aritimeticos\Operadores Aritimeticos\bin\Debug\netcoreapp3.0\Operadores Aritimeticos.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Operadores Aritimeticos\Operadores Aritimeticos\bin\Debug\netcoreapp3.0\Operadores Aritimeticos.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Operadores Aritimeticos\Operadores Aritimeticos\bin\Debug\netcoreapp3.0\Operadores Aritimeticos.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Operadores Aritimeticos\Operadores Aritimeticos\bin\Debug\netcoreapp3.0\Operadores Aritimeticos.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Operadores Aritimeticos\Operadores Aritimeticos\obj\Debug\netcoreapp3.0\Operadores Aritimeticos.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Operadores Aritimeticos\Operadores Aritimeticos\obj\Debug\netcoreapp3.0\Operadores Aritimeticos.pdb

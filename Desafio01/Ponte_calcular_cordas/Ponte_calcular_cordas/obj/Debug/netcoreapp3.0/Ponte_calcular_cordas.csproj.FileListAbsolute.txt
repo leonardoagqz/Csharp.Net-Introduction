@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafio-01\Ponte_calcular_cordas\Ponte_calcular_cordas\obj\Debug\netcoreapp3.0\Ponte_calcular_cordas.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafio-01\Ponte_calcular_cordas\Ponte_calcular_cordas\obj\Debug\netcoreapp3.0\Ponte_calcular_cordas.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafio-01\Ponte_calcular_cordas\Ponte_calcular_cordas\obj\Debug\netcoreapp3.0\Ponte_calcular_cordas.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafio-01\Ponte_calcular_cordas\Ponte_calcular_cordas\bin\Debug\netcoreapp3.0\Ponte_calcular_cordas.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafio-01\Ponte_calcular_cordas\Ponte_calcular_cordas\bin\Debug\netcoreapp3.0\Ponte_calcular_cordas.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafio-01\Ponte_calcular_cordas\Ponte_calcular_cordas\bin\Debug\netcoreapp3.0\Ponte_calcular_cordas.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafio-01\Ponte_calcular_cordas\Ponte_calcular_cordas\bin\Debug\netcoreapp3.0\Ponte_calcular_cordas.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafio-01\Ponte_calcular_cordas\Ponte_calcular_cordas\bin\Debug\netcoreapp3.0\Ponte_calcular_cordas.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafio-01\Ponte_calcular_cordas\Ponte_calcular_cordas\bin\Debug\netcoreapp3.0\Ponte_calcular_cordas.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafio-01\Ponte_calcular_cordas\Ponte_calcular_cordas\obj\Debug\netcoreapp3.0\Ponte_calcular_cordas.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafio-01\Ponte_calcular_cordas\Ponte_calcular_cordas\obj\Debug\netcoreapp3.0\Ponte_calcular_cordas.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Exercicio-02-mostrarvalorareacirculo/1.0.0": {
+        "runtime": {
+          "Exercicio-02-mostrarvalorareacirculo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio-02-mostrarvalorareacirculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

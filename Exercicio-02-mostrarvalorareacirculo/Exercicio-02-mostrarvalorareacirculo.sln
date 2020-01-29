@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio-02-mostrarvalorareacirculo", "Exercicio-02-mostrarvalorareacirculo\Exercicio-02-mostrarvalorareacirculo.csproj", "{8593920C-63D2-41F6-B4F4-D925FFDAA333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8593920C-63D2-41F6-B4F4-D925FFDAA333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8593920C-63D2-41F6-B4F4-D925FFDAA333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8593920C-63D2-41F6-B4F4-D925FFDAA333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8593920C-63D2-41F6-B4F4-D925FFDAA333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C2A92C0-C0A3-4E5C-9D47-2B6B0D9DEBE6}
+	EndGlobalSection
+EndGlobal

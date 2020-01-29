@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Entrada de Dados - Parte 1\Entrada de Dados - Parte 1\bin\Debug\netcoreapp3.0\Entrada de Dados - Parte 1.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Entrada de Dados - Parte 1\Entrada de Dados - Parte 1\bin\Debug\netcoreapp3.0\Entrada de Dados - Parte 1.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Entrada de Dados - Parte 1\Entrada de Dados - Parte 1\bin\Debug\netcoreapp3.0\Entrada de Dados - Parte 1.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Entrada de Dados - Parte 1\Entrada de Dados - Parte 1\bin\Debug\netcoreapp3.0\Entrada de Dados - Parte 1.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Entrada de Dados - Parte 1\Entrada de Dados - Parte 1\bin\Debug\netcoreapp3.0\Entrada de Dados - Parte 1.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Entrada de Dados - Parte 1\Entrada de Dados - Parte 1\bin\Debug\netcoreapp3.0\Entrada de Dados - Parte 1.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Entrada de Dados - Parte 1\Entrada de Dados - Parte 1\obj\Debug\netcoreapp3.0\Entrada de Dados - Parte 1.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Entrada de Dados - Parte 1\Entrada de Dados - Parte 1\obj\Debug\netcoreapp3.0\Entrada de Dados - Parte 1.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Entrada de Dados - Parte 1\Entrada de Dados - Parte 1\obj\Debug\netcoreapp3.0\Entrada de Dados - Parte 1.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Entrada de Dados - Parte 1\Entrada de Dados - Parte 1\obj\Debug\netcoreapp3.0\Entrada de Dados - Parte 1.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Entrada de Dados - Parte 1\Entrada de Dados - Parte 1\obj\Debug\netcoreapp3.0\Entrada de Dados - Parte 1.pdb

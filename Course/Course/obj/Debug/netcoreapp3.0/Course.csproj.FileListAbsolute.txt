@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Course\Course\bin\Debug\netcoreapp3.0\Course.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Course\Course\bin\Debug\netcoreapp3.0\Course.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Course\Course\bin\Debug\netcoreapp3.0\Course.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Course\Course\bin\Debug\netcoreapp3.0\Course.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Course\Course\bin\Debug\netcoreapp3.0\Course.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Course\Course\bin\Debug\netcoreapp3.0\Course.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Course\Course\obj\Debug\netcoreapp3.0\Course.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Course\Course\obj\Debug\netcoreapp3.0\Course.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Course\Course\obj\Debug\netcoreapp3.0\Course.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Course\Course\obj\Debug\netcoreapp3.0\Course.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Course\Course\obj\Debug\netcoreapp3.0\Course.pdb

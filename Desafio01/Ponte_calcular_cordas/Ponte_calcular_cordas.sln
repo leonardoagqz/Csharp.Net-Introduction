@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ponte_calcular_cordas", "Ponte_calcular_cordas\Ponte_calcular_cordas.csproj", "{D6B148BC-5365-4EB9-985D-5B8DF899B056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B148BC-5365-4EB9-985D-5B8DF899B056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B148BC-5365-4EB9-985D-5B8DF899B056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B148BC-5365-4EB9-985D-5B8DF899B056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B148BC-5365-4EB9-985D-5B8DF899B056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7DDEAD5-C4C9-4126-9953-61F1FC64D1DD}
+	EndGlobalSection
+EndGlobal

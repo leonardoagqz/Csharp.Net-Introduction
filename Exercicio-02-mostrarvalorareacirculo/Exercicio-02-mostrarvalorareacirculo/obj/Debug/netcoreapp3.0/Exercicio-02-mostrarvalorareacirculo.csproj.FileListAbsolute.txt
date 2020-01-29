@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-02-mostrarvalorareacirculo\Exercicio-02-mostrarvalorareacirculo\bin\Debug\netcoreapp3.0\Exercicio-02-mostrarvalorareacirculo.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-02-mostrarvalorareacirculo\Exercicio-02-mostrarvalorareacirculo\bin\Debug\netcoreapp3.0\Exercicio-02-mostrarvalorareacirculo.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-02-mostrarvalorareacirculo\Exercicio-02-mostrarvalorareacirculo\bin\Debug\netcoreapp3.0\Exercicio-02-mostrarvalorareacirculo.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-02-mostrarvalorareacirculo\Exercicio-02-mostrarvalorareacirculo\bin\Debug\netcoreapp3.0\Exercicio-02-mostrarvalorareacirculo.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-02-mostrarvalorareacirculo\Exercicio-02-mostrarvalorareacirculo\bin\Debug\netcoreapp3.0\Exercicio-02-mostrarvalorareacirculo.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-02-mostrarvalorareacirculo\Exercicio-02-mostrarvalorareacirculo\bin\Debug\netcoreapp3.0\Exercicio-02-mostrarvalorareacirculo.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-02-mostrarvalorareacirculo\Exercicio-02-mostrarvalorareacirculo\obj\Debug\netcoreapp3.0\Exercicio-02-mostrarvalorareacirculo.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-02-mostrarvalorareacirculo\Exercicio-02-mostrarvalorareacirculo\obj\Debug\netcoreapp3.0\Exercicio-02-mostrarvalorareacirculo.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-02-mostrarvalorareacirculo\Exercicio-02-mostrarvalorareacirculo\obj\Debug\netcoreapp3.0\Exercicio-02-mostrarvalorareacirculo.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-02-mostrarvalorareacirculo\Exercicio-02-mostrarvalorareacirculo\obj\Debug\netcoreapp3.0\Exercicio-02-mostrarvalorareacirculo.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Exercicio-02-mostrarvalorareacirculo\Exercicio-02-mostrarvalorareacirculo\obj\Debug\netcoreapp3.0\Exercicio-02-mostrarvalorareacirculo.pdb

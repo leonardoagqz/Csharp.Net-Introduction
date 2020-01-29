@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\ExercicodeFixacao\ExercicodeFixacao\obj\Debug\netcoreapp3.0\ExercicodeFixacao.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\ExercicodeFixacao\ExercicodeFixacao\obj\Debug\netcoreapp3.0\ExercicodeFixacao.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\ExercicodeFixacao\ExercicodeFixacao\obj\Debug\netcoreapp3.0\ExercicodeFixacao.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\ExercicodeFixacao\ExercicodeFixacao\bin\Debug\netcoreapp3.0\ExercicodeFixacao.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\ExercicodeFixacao\ExercicodeFixacao\bin\Debug\netcoreapp3.0\ExercicodeFixacao.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\ExercicodeFixacao\ExercicodeFixacao\bin\Debug\netcoreapp3.0\ExercicodeFixacao.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\ExercicodeFixacao\ExercicodeFixacao\bin\Debug\netcoreapp3.0\ExercicodeFixacao.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\ExercicodeFixacao\ExercicodeFixacao\bin\Debug\netcoreapp3.0\ExercicodeFixacao.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\ExercicodeFixacao\ExercicodeFixacao\bin\Debug\netcoreapp3.0\ExercicodeFixacao.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\ExercicodeFixacao\ExercicodeFixacao\obj\Debug\netcoreapp3.0\ExercicodeFixacao.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\ExercicodeFixacao\ExercicodeFixacao\obj\Debug\netcoreapp3.0\ExercicodeFixacao.pdb
