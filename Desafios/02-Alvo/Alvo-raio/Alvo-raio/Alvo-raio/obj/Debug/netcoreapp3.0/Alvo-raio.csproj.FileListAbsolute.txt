@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo-raio\Alvo-raio\Alvo-raio\bin\Debug\netcoreapp3.0\Alvo-raio.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo-raio\Alvo-raio\Alvo-raio\bin\Debug\netcoreapp3.0\Alvo-raio.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo-raio\Alvo-raio\Alvo-raio\bin\Debug\netcoreapp3.0\Alvo-raio.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo-raio\Alvo-raio\Alvo-raio\bin\Debug\netcoreapp3.0\Alvo-raio.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo-raio\Alvo-raio\Alvo-raio\bin\Debug\netcoreapp3.0\Alvo-raio.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo-raio\Alvo-raio\Alvo-raio\bin\Debug\netcoreapp3.0\Alvo-raio.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo-raio\Alvo-raio\Alvo-raio\obj\Debug\netcoreapp3.0\Alvo-raio.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo-raio\Alvo-raio\Alvo-raio\obj\Debug\netcoreapp3.0\Alvo-raio.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo-raio\Alvo-raio\Alvo-raio\obj\Debug\netcoreapp3.0\Alvo-raio.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo-raio\Alvo-raio\Alvo-raio\obj\Debug\netcoreapp3.0\Alvo-raio.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo-raio\Alvo-raio\Alvo-raio\obj\Debug\netcoreapp3.0\Alvo-raio.pdb
