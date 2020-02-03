@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo\Alvo\bin\Debug\netcoreapp3.0\Alvo.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo\Alvo\bin\Debug\netcoreapp3.0\Alvo.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo\Alvo\bin\Debug\netcoreapp3.0\Alvo.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo\Alvo\bin\Debug\netcoreapp3.0\Alvo.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo\Alvo\bin\Debug\netcoreapp3.0\Alvo.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo\Alvo\bin\Debug\netcoreapp3.0\Alvo.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo\Alvo\obj\Debug\netcoreapp3.0\Alvo.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo\Alvo\obj\Debug\netcoreapp3.0\Alvo.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo\Alvo\obj\Debug\netcoreapp3.0\Alvo.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo\Alvo\obj\Debug\netcoreapp3.0\Alvo.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\02-Alvo\Alvo\Alvo\obj\Debug\netcoreapp3.0\Alvo.pdb
