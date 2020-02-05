@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Debugging Visual Studio\Debugging Visual Studio\Debugging Visual Studio\obj\Debug\netcoreapp3.0\Debugging Visual Studio.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Debugging Visual Studio\Debugging Visual Studio\Debugging Visual Studio\obj\Debug\netcoreapp3.0\Debugging Visual Studio.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Debugging Visual Studio\Debugging Visual Studio\Debugging Visual Studio\obj\Debug\netcoreapp3.0\Debugging Visual Studio.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Debugging Visual Studio\Debugging Visual Studio\Debugging Visual Studio\bin\Debug\netcoreapp3.0\Debugging Visual Studio.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Debugging Visual Studio\Debugging Visual Studio\Debugging Visual Studio\bin\Debug\netcoreapp3.0\Debugging Visual Studio.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Debugging Visual Studio\Debugging Visual Studio\Debugging Visual Studio\bin\Debug\netcoreapp3.0\Debugging Visual Studio.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Debugging Visual Studio\Debugging Visual Studio\Debugging Visual Studio\bin\Debug\netcoreapp3.0\Debugging Visual Studio.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Debugging Visual Studio\Debugging Visual Studio\Debugging Visual Studio\bin\Debug\netcoreapp3.0\Debugging Visual Studio.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Debugging Visual Studio\Debugging Visual Studio\Debugging Visual Studio\bin\Debug\netcoreapp3.0\Debugging Visual Studio.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Debugging Visual Studio\Debugging Visual Studio\Debugging Visual Studio\obj\Debug\netcoreapp3.0\Debugging Visual Studio.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Debugging Visual Studio\Debugging Visual Studio\Debugging Visual Studio\obj\Debug\netcoreapp3.0\Debugging Visual Studio.pdb
