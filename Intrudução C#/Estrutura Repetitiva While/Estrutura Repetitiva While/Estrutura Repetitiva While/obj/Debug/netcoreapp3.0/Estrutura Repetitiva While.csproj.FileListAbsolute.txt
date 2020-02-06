@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Estrutura Repetitiva While\Estrutura Repetitiva While\Estrutura Repetitiva While\bin\Debug\netcoreapp3.0\Estrutura Repetitiva While.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Estrutura Repetitiva While\Estrutura Repetitiva While\Estrutura Repetitiva While\bin\Debug\netcoreapp3.0\Estrutura Repetitiva While.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Estrutura Repetitiva While\Estrutura Repetitiva While\Estrutura Repetitiva While\bin\Debug\netcoreapp3.0\Estrutura Repetitiva While.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Estrutura Repetitiva While\Estrutura Repetitiva While\Estrutura Repetitiva While\bin\Debug\netcoreapp3.0\Estrutura Repetitiva While.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Estrutura Repetitiva While\Estrutura Repetitiva While\Estrutura Repetitiva While\bin\Debug\netcoreapp3.0\Estrutura Repetitiva While.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Estrutura Repetitiva While\Estrutura Repetitiva While\Estrutura Repetitiva While\bin\Debug\netcoreapp3.0\Estrutura Repetitiva While.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Estrutura Repetitiva While\Estrutura Repetitiva While\Estrutura Repetitiva While\obj\Debug\netcoreapp3.0\Estrutura Repetitiva While.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Estrutura Repetitiva While\Estrutura Repetitiva While\Estrutura Repetitiva While\obj\Debug\netcoreapp3.0\Estrutura Repetitiva While.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Estrutura Repetitiva While\Estrutura Repetitiva While\Estrutura Repetitiva While\obj\Debug\netcoreapp3.0\Estrutura Repetitiva While.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Estrutura Repetitiva While\Estrutura Repetitiva While\Estrutura Repetitiva While\obj\Debug\netcoreapp3.0\Estrutura Repetitiva While.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Estrutura Repetitiva While\Estrutura Repetitiva While\Estrutura Repetitiva While\obj\Debug\netcoreapp3.0\Estrutura Repetitiva While.pdb

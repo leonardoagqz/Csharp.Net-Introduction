@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura Repetitiva While", "Estrutura Repetitiva While\Estrutura Repetitiva While.csproj", "{02FEABF5-B02E-4436-9E33-F8657D76C653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02FEABF5-B02E-4436-9E33-F8657D76C653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FEABF5-B02E-4436-9E33-F8657D76C653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FEABF5-B02E-4436-9E33-F8657D76C653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FEABF5-B02E-4436-9E33-F8657D76C653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC916080-203D-4F93-BCE0-DC5629DF6424}
+	EndGlobalSection
+EndGlobal
