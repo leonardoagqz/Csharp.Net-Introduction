@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura Repetitiva While\Exercicio Proposto 2\Exercicio Proposto 2\Exercicio Proposto 2\bin\Debug\netcoreapp3.0\Exercicio Proposto 2.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura Repetitiva While\Exercicio Proposto 2\Exercicio Proposto 2\Exercicio Proposto 2\bin\Debug\netcoreapp3.0\Exercicio Proposto 2.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura Repetitiva While\Exercicio Proposto 2\Exercicio Proposto 2\Exercicio Proposto 2\bin\Debug\netcoreapp3.0\Exercicio Proposto 2.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura Repetitiva While\Exercicio Proposto 2\Exercicio Proposto 2\Exercicio Proposto 2\bin\Debug\netcoreapp3.0\Exercicio Proposto 2.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura Repetitiva While\Exercicio Proposto 2\Exercicio Proposto 2\Exercicio Proposto 2\bin\Debug\netcoreapp3.0\Exercicio Proposto 2.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura Repetitiva While\Exercicio Proposto 2\Exercicio Proposto 2\Exercicio Proposto 2\bin\Debug\netcoreapp3.0\Exercicio Proposto 2.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura Repetitiva While\Exercicio Proposto 2\Exercicio Proposto 2\Exercicio Proposto 2\obj\Debug\netcoreapp3.0\Exercicio Proposto 2.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura Repetitiva While\Exercicio Proposto 2\Exercicio Proposto 2\Exercicio Proposto 2\obj\Debug\netcoreapp3.0\Exercicio Proposto 2.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura Repetitiva While\Exercicio Proposto 2\Exercicio Proposto 2\Exercicio Proposto 2\obj\Debug\netcoreapp3.0\Exercicio Proposto 2.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura Repetitiva While\Exercicio Proposto 2\Exercicio Proposto 2\Exercicio Proposto 2\obj\Debug\netcoreapp3.0\Exercicio Proposto 2.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura Repetitiva While\Exercicio Proposto 2\Exercicio Proposto 2\Exercicio Proposto 2\obj\Debug\netcoreapp3.0\Exercicio Proposto 2.pdb
