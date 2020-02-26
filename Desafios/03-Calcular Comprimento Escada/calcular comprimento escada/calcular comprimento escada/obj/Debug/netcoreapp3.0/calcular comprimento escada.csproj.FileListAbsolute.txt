@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\03-Calcular Comprimento Escada\calcular comprimento escada\calcular comprimento escada\bin\Debug\netcoreapp3.0\calcular comprimento escada.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\03-Calcular Comprimento Escada\calcular comprimento escada\calcular comprimento escada\bin\Debug\netcoreapp3.0\calcular comprimento escada.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\03-Calcular Comprimento Escada\calcular comprimento escada\calcular comprimento escada\bin\Debug\netcoreapp3.0\calcular comprimento escada.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\03-Calcular Comprimento Escada\calcular comprimento escada\calcular comprimento escada\bin\Debug\netcoreapp3.0\calcular comprimento escada.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\03-Calcular Comprimento Escada\calcular comprimento escada\calcular comprimento escada\bin\Debug\netcoreapp3.0\calcular comprimento escada.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\03-Calcular Comprimento Escada\calcular comprimento escada\calcular comprimento escada\bin\Debug\netcoreapp3.0\calcular comprimento escada.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\03-Calcular Comprimento Escada\calcular comprimento escada\calcular comprimento escada\obj\Debug\netcoreapp3.0\calcular comprimento escada.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\03-Calcular Comprimento Escada\calcular comprimento escada\calcular comprimento escada\obj\Debug\netcoreapp3.0\calcular comprimento escada.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\03-Calcular Comprimento Escada\calcular comprimento escada\calcular comprimento escada\obj\Debug\netcoreapp3.0\calcular comprimento escada.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\03-Calcular Comprimento Escada\calcular comprimento escada\calcular comprimento escada\obj\Debug\netcoreapp3.0\calcular comprimento escada.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\03-Calcular Comprimento Escada\calcular comprimento escada\calcular comprimento escada\obj\Debug\netcoreapp3.0\calcular comprimento escada.pdb
