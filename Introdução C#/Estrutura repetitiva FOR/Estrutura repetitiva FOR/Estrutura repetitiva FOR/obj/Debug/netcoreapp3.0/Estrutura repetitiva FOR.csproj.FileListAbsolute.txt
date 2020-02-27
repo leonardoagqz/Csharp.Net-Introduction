@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Estrutura repetitiva FOR\Estrutura repetitiva FOR\bin\Debug\netcoreapp3.0\Estrutura repetitiva FOR.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Estrutura repetitiva FOR\Estrutura repetitiva FOR\bin\Debug\netcoreapp3.0\Estrutura repetitiva FOR.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Estrutura repetitiva FOR\Estrutura repetitiva FOR\bin\Debug\netcoreapp3.0\Estrutura repetitiva FOR.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Estrutura repetitiva FOR\Estrutura repetitiva FOR\bin\Debug\netcoreapp3.0\Estrutura repetitiva FOR.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Estrutura repetitiva FOR\Estrutura repetitiva FOR\bin\Debug\netcoreapp3.0\Estrutura repetitiva FOR.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Estrutura repetitiva FOR\Estrutura repetitiva FOR\bin\Debug\netcoreapp3.0\Estrutura repetitiva FOR.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Estrutura repetitiva FOR\Estrutura repetitiva FOR\obj\Debug\netcoreapp3.0\Estrutura repetitiva FOR.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Estrutura repetitiva FOR\Estrutura repetitiva FOR\obj\Debug\netcoreapp3.0\Estrutura repetitiva FOR.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Estrutura repetitiva FOR\Estrutura repetitiva FOR\obj\Debug\netcoreapp3.0\Estrutura repetitiva FOR.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Estrutura repetitiva FOR\Estrutura repetitiva FOR\obj\Debug\netcoreapp3.0\Estrutura repetitiva FOR.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Estrutura repetitiva FOR\Estrutura repetitiva FOR\obj\Debug\netcoreapp3.0\Estrutura repetitiva FOR.pdb

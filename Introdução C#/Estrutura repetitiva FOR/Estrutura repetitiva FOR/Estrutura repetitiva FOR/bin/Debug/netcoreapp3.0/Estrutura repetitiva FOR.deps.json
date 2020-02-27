@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Estrutura repetitiva FOR/1.0.0": {
+        "runtime": {
+          "Estrutura repetitiva FOR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estrutura repetitiva FOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
