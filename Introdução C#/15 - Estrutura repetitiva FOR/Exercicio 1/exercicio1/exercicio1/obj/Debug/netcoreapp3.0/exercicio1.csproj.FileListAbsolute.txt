@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Exercicio 1\exercicio1\exercicio1\bin\Debug\netcoreapp3.0\exercicio1.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Exercicio 1\exercicio1\exercicio1\bin\Debug\netcoreapp3.0\exercicio1.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Exercicio 1\exercicio1\exercicio1\bin\Debug\netcoreapp3.0\exercicio1.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Exercicio 1\exercicio1\exercicio1\bin\Debug\netcoreapp3.0\exercicio1.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Exercicio 1\exercicio1\exercicio1\bin\Debug\netcoreapp3.0\exercicio1.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Exercicio 1\exercicio1\exercicio1\bin\Debug\netcoreapp3.0\exercicio1.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Exercicio 1\exercicio1\exercicio1\obj\Debug\netcoreapp3.0\exercicio1.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Exercicio 1\exercicio1\exercicio1\obj\Debug\netcoreapp3.0\exercicio1.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Exercicio 1\exercicio1\exercicio1\obj\Debug\netcoreapp3.0\exercicio1.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Exercicio 1\exercicio1\exercicio1\obj\Debug\netcoreapp3.0\exercicio1.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Introdução C#\Estrutura repetitiva FOR\Exercicio 1\exercicio1\exercicio1\obj\Debug\netcoreapp3.0\exercicio1.pdb
