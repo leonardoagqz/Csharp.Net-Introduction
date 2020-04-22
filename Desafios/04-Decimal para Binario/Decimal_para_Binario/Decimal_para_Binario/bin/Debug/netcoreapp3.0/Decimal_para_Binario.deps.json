@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Decimal_para_Binario/1.0.0": {
+        "runtime": {
+          "Decimal_para_Binario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decimal_para_Binario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

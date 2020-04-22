@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\Decimal_para_Binario\Decimal_para_Binario\obj\Debug\netcoreapp3.0\Decimal_para_Binario.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\Decimal_para_Binario\Decimal_para_Binario\obj\Debug\netcoreapp3.0\Decimal_para_Binario.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\Decimal_para_Binario\Decimal_para_Binario\obj\Debug\netcoreapp3.0\Decimal_para_Binario.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\Decimal_para_Binario\Decimal_para_Binario\bin\Debug\netcoreapp3.0\Decimal_para_Binario.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\Decimal_para_Binario\Decimal_para_Binario\bin\Debug\netcoreapp3.0\Decimal_para_Binario.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\Decimal_para_Binario\Decimal_para_Binario\bin\Debug\netcoreapp3.0\Decimal_para_Binario.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\Decimal_para_Binario\Decimal_para_Binario\bin\Debug\netcoreapp3.0\Decimal_para_Binario.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\Decimal_para_Binario\Decimal_para_Binario\bin\Debug\netcoreapp3.0\Decimal_para_Binario.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\Decimal_para_Binario\Decimal_para_Binario\bin\Debug\netcoreapp3.0\Decimal_para_Binario.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\Decimal_para_Binario\Decimal_para_Binario\obj\Debug\netcoreapp3.0\Decimal_para_Binario.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\Decimal_para_Binario\Decimal_para_Binario\obj\Debug\netcoreapp3.0\Decimal_para_Binario.pdb

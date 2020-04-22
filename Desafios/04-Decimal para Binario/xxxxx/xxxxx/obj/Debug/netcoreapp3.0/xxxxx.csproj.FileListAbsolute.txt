@@ -1,0 +1,10 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\xxxxx\xxxxx\bin\Debug\netcoreapp3.0\xxxxx.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\xxxxx\xxxxx\bin\Debug\netcoreapp3.0\xxxxx.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\xxxxx\xxxxx\bin\Debug\netcoreapp3.0\xxxxx.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\xxxxx\xxxxx\bin\Debug\netcoreapp3.0\xxxxx.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\xxxxx\xxxxx\bin\Debug\netcoreapp3.0\xxxxx.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\xxxxx\xxxxx\bin\Debug\netcoreapp3.0\xxxxx.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\xxxxx\xxxxx\obj\Debug\netcoreapp3.0\xxxxx.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\xxxxx\xxxxx\obj\Debug\netcoreapp3.0\xxxxx.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\xxxxx\xxxxx\obj\Debug\netcoreapp3.0\xxxxx.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Desafios\04-Decimal para Binario\xxxxx\xxxxx\obj\Debug\netcoreapp3.0\xxxxx.pdb
