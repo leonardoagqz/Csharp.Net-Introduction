@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\40 Primeiros Exercicios classes objetos e atributos\Exerc01\Exerc01\bin\Debug\netcoreapp3.0\Exerc01.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\40 Primeiros Exercicios classes objetos e atributos\Exerc01\Exerc01\bin\Debug\netcoreapp3.0\Exerc01.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\40 Primeiros Exercicios classes objetos e atributos\Exerc01\Exerc01\bin\Debug\netcoreapp3.0\Exerc01.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\40 Primeiros Exercicios classes objetos e atributos\Exerc01\Exerc01\bin\Debug\netcoreapp3.0\Exerc01.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\40 Primeiros Exercicios classes objetos e atributos\Exerc01\Exerc01\bin\Debug\netcoreapp3.0\Exerc01.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\40 Primeiros Exercicios classes objetos e atributos\Exerc01\Exerc01\bin\Debug\netcoreapp3.0\Exerc01.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\40 Primeiros Exercicios classes objetos e atributos\Exerc01\Exerc01\obj\Debug\netcoreapp3.0\Exerc01.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\40 Primeiros Exercicios classes objetos e atributos\Exerc01\Exerc01\obj\Debug\netcoreapp3.0\Exerc01.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\40 Primeiros Exercicios classes objetos e atributos\Exerc01\Exerc01\obj\Debug\netcoreapp3.0\Exerc01.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\40 Primeiros Exercicios classes objetos e atributos\Exerc01\Exerc01\obj\Debug\netcoreapp3.0\Exerc01.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\40 Primeiros Exercicios classes objetos e atributos\Exerc01\Exerc01\obj\Debug\netcoreapp3.0\Exerc01.pdb
