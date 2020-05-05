@@ -9,7 +9,7 @@ namespace EscreverNumeroExtenso {
             int valor, m, c, d, u;
 
 
-            Console.Write("Digite um valor : ");
+            Console.Write("Digite um valor entre 0 e 10.000!!: ");
             string valorstr = Console.ReadLine();
             while (true) {
 
