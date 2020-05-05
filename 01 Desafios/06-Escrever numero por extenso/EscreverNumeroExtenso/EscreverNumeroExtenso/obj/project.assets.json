@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\02 Introdução C#\\06 - Convesao_Implicita_Casting\\Convesao_Implicita_Casting\\Convesao_Implicita_Casting.csproj",
-      "projectName": "Convesao_Implicita_Casting",
-      "projectPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\02 Introdução C#\\06 - Convesao_Implicita_Casting\\Convesao_Implicita_Casting\\Convesao_Implicita_Casting.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\01 Desafios\\06-Escrever numero por extenso\\EscreverNumeroExtenso\\EscreverNumeroExtenso\\EscreverNumeroExtenso.csproj",
+      "projectName": "EscreverNumeroExtenso",
+      "projectPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\01 Desafios\\06-Escrever numero por extenso\\EscreverNumeroExtenso\\EscreverNumeroExtenso\\EscreverNumeroExtenso.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\02 Introdução C#\\06 - Convesao_Implicita_Casting\\Convesao_Implicita_Casting\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\01 Desafios\\06-Escrever numero por extenso\\EscreverNumeroExtenso\\EscreverNumeroExtenso\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

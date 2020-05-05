@@ -29,22 +29,22 @@ namespace Custo40Casas {
             Console.WriteLine(string.Format("valor por metro quadrado: R$ {0}", string.Format("{0:n2}",V_pedreiro)));
             
             //Console.WriteLine("Área de um quarto: "+A_quadrado.ToString("F2",CultureInfo.InvariantCulture)+" m2");
-            Console.WriteLine(string.Format("Área de um quarto: {0}", string.Format("{0:n2}",A_quadrado)));
+            Console.WriteLine(string.Format("Área de um quarto: {0}", string.Format("{0:n2}",A_quadrado) + " m2"));
 
             //Console.WriteLine("Área de um banheiro: "+A_circulo.ToString("F2",CultureInfo.InvariantCulture)+" m2");
-            Console.WriteLine(string.Format("Área de um banheiro: {0}", string.Format("{0:n2}",A_circulo)));
+            Console.WriteLine(string.Format("Área de um banheiro: {0}", string.Format("{0:n2}",A_circulo) + " m2"));
 
             //Console.WriteLine("Àrea de um escritório: "+A_triangulo.ToString("F2",CultureInfo.InvariantCulture)+" m2");
-            Console.WriteLine(string.Format("Área de um escritório: {0}", string.Format("{0:n2}",A_triangulo)));
+            Console.WriteLine(string.Format("Área de um escritório: {0}", string.Format("{0:n2}",A_triangulo) + " m2"));
 
             //Console.WriteLine("Área das salas: "+A_retangulo.ToString("F2",CultureInfo.InvariantCulture)+" m2");
-            Console.WriteLine(string.Format("Área das salas: {0}", string.Format("{0:n2}",A_retangulo)));
+            Console.WriteLine(string.Format("Área das salas: {0}", string.Format("{0:n2}",A_retangulo) + " m2"));
 
             //Console.WriteLine("Área da copa e cozinha: "+A_trapezio.ToString("F2",CultureInfo.InvariantCulture)+" m2");
-            Console.WriteLine(string.Format("Área da copa e cozinha: {0}", string.Format("{0:n2}", A_trapezio)));
+            Console.WriteLine(string.Format("Área da copa e cozinha: {0}", string.Format("{0:n2}", A_trapezio) + " m2"));
 
             //Console.WriteLine("Área de uma casa: "+A_total.ToString("F2",CultureInfo.InvariantCulture)+" m2");
-            Console.WriteLine(string.Format("Área de uma casa: {0}", string.Format("{0:n2}",A_total)));
+            Console.WriteLine(string.Format("Área de uma casa: {0}", string.Format("{0:n2}",A_total) + " m2"));
 
             //Console.WriteLine("Valor mão de obra de uma casa: R$"+(V_pedreiro*A_total).ToString("F2",CultureInfo.InvariantCulture));
             Console.WriteLine(string.Format("Valor mão de obra de uma casa: R$ {0}", string.Format("{0:n2}", (V_pedreiro * A_total))));

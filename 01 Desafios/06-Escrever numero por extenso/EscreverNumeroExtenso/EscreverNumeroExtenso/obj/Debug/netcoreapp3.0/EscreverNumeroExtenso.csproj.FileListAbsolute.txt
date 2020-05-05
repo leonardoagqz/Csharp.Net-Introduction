@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso\EscreverNumeroExtenso\EscreverNumeroExtenso\obj\Debug\netcoreapp3.0\EscreverNumeroExtenso.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso\EscreverNumeroExtenso\EscreverNumeroExtenso\obj\Debug\netcoreapp3.0\EscreverNumeroExtenso.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso\EscreverNumeroExtenso\EscreverNumeroExtenso\obj\Debug\netcoreapp3.0\EscreverNumeroExtenso.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso\EscreverNumeroExtenso\EscreverNumeroExtenso\bin\Debug\netcoreapp3.0\EscreverNumeroExtenso.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso\EscreverNumeroExtenso\EscreverNumeroExtenso\bin\Debug\netcoreapp3.0\EscreverNumeroExtenso.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso\EscreverNumeroExtenso\EscreverNumeroExtenso\bin\Debug\netcoreapp3.0\EscreverNumeroExtenso.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso\EscreverNumeroExtenso\EscreverNumeroExtenso\bin\Debug\netcoreapp3.0\EscreverNumeroExtenso.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso\EscreverNumeroExtenso\EscreverNumeroExtenso\bin\Debug\netcoreapp3.0\EscreverNumeroExtenso.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso\EscreverNumeroExtenso\EscreverNumeroExtenso\bin\Debug\netcoreapp3.0\EscreverNumeroExtenso.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso\EscreverNumeroExtenso\EscreverNumeroExtenso\obj\Debug\netcoreapp3.0\EscreverNumeroExtenso.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso\EscreverNumeroExtenso\EscreverNumeroExtenso\obj\Debug\netcoreapp3.0\EscreverNumeroExtenso.pdb
