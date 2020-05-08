@@ -100,24 +100,33 @@ namespace EscreverNumeroExtenso {
                         Console.Write(" Nove mil ");
                         break;
                 }
+
+                if (m > 0) {
+                    if (c != 0 || d != 0 && u > 0) {
+                        Console.Write(" e "); }
+                }
+
+
                 switch (c) {
                     case 1:
                         if (d == 0 && u == 0) {
 
-                            Console.Write(" cem ");
+                            Console.Write(" Cem ");
 
                         }
-                        else { Console.Write(" cento "); }
+                        else if (m == 0) { Console.Write(" Cento "); }
+                        else { Console.Write("cento"); }
                         break;
 
-                    case 2: { Console.Write(" duzentos "); break; }
-                    case 3: { Console.Write(" trezentos "); break; }
-                    case 4: { Console.Write(" quatrocentos "); break; }
-                    case 5: { Console.Write(" quinhentos "); break; }
-                    case 6: { Console.Write(" seiscentos "); break; }
-                    case 7: { Console.Write(" setecentos "); break; }
-                    case 8: { Console.Write(" oitocentos "); break; }
-                    case 9: { Console.Write(" novecentos "); break; }
+
+                    case 2: if (m == 0) { Console.Write(" Duzentos "); } else { Console.Write(" duzentos "); } break;
+                    case 3: if (m == 0) { Console.Write(" Trezentos "); } else { Console.Write(" trezentos "); } break;
+                    case 4: if (m == 0) { Console.Write(" Quatrocentos "); } else { Console.Write(" quatrocentos "); } break;
+                    case 5: if (m == 0) { Console.Write(" Quinhentos "); } else { Console.Write(" quinhentos "); } break;
+                    case 6: if (m == 0) { Console.Write(" Seiscentos "); } else { Console.Write(" seiscentos "); } break;
+                    case 7: if (m == 0) { Console.Write(" Setecentos "); } else { Console.Write(" setecentos "); } break;
+                    case 8: if (m == 0) { Console.Write(" Oitocentos "); } else { Console.Write(" oitocentos "); } break;
+                    case 9: if (m == 0) { Console.Write(" Novecentos "); } else { Console.Write(" novecentos "); } break;
 
                 }
 
@@ -129,46 +138,46 @@ namespace EscreverNumeroExtenso {
 
                             switch (u) {
 
-                                case 0: { Console.Write(" dez "); break; }
-                                case 1: { Console.Write(" onze "); break; }
-                                case 2: { Console.Write(" doze "); break; }
-                                case 3: { Console.Write(" treze "); break; }
-                                case 4: { Console.Write(" quatorze "); break; }
-                                case 5: { Console.Write(" quinze "); break; }
-                                case 6: { Console.Write(" dezesseis "); break; }
-                                case 7: { Console.Write(" dezessete "); break; }
-                                case 8: { Console.Write(" dezoito "); break; }
-                                case 9: { Console.Write(" dezenove "); break; }
+                                case 0: if (m == 0 && c ==0) { Console.Write(" Dez "); } else { Console.Write(" dez "); } break;
+                                case 1: if (m == 0 && c == 0) { Console.Write(" Onze "); } else { Console.Write(" onze "); } break;
+                                case 2: if (m == 0 && c == 0) { Console.Write(" Doze "); } else { Console.Write(" doze "); } break;
+                                case 3: if (m == 0 && c == 0) { Console.Write(" Treze "); } else { Console.Write(" treze "); } break;
+                                case 4: if (m == 0 && c == 0) { Console.Write(" Quatorze "); } else { Console.Write(" quatorze "); } break;
+                                case 5: if (m == 0 && c == 0) { Console.Write(" Quinze "); } else { Console.Write(" quinze "); } break;
+                                case 6: if (m == 0 && c == 0) { Console.Write(" Dezesseis "); } else { Console.Write(" dezeseis "); } break;
+                                case 7: if (m == 0 && c == 0) { Console.Write(" Dezessete "); } else { Console.Write(" dezessete "); } break;
+                                case 8: if (m == 0 && c == 0) { Console.Write(" Dezoito "); } else { Console.Write(" dezoito "); } break;
+                                case 9: if (m == 0 && c == 0) { Console.Write(" Dezenove "); } else { Console.Write(" dezenove "); } break;
 
                             }
                             break;
                         }
-                    case 2: { Console.Write(" vinte "); break; }
-                    case 3: { Console.Write(" trinta "); break; }
-                    case 4: { Console.Write(" quarenta "); break; }
-                    case 5: { Console.Write(" cinquenta "); break; }
-                    case 6: { Console.Write(" sessenta "); break; }
-                    case 7: { Console.Write(" setenta "); break; }
-                    case 8: { Console.Write(" oitenta "); break; }
-                    case 9: { Console.Write(" noventa "); break; }
+                    case 2: if (m == 0 && c == 0) { Console.Write(" Vinte "); } else { Console.Write(" vinte "); } break;
+                    case 3: if (m == 0 && c == 0) { Console.Write(" Trinta "); } else { Console.Write(" trinta "); } break;
+                    case 4: if (m == 0 && c == 0) { Console.Write(" Quarenta "); } else { Console.Write(" quarenta "); } break;
+                    case 5: if (m == 0 && c == 0) { Console.Write(" Cinquenta "); } else { Console.Write(" cinquenta "); } break;
+                    case 6: if (m == 0 && c == 0) { Console.Write(" Sessenta "); } else { Console.Write(" sessenta "); } break;
+                    case 7: if (m == 0 && c == 0) { Console.Write(" Setenta "); } else { Console.Write(" setenta "); } break;
+                    case 8: if (m == 0 && c == 0) { Console.Write(" Oitenta "); } else { Console.Write(" oitenta "); } break;
+                    case 9: if (m == 0 && c == 0) { Console.Write(" Noventa "); } else { Console.Write(" noventa "); } break;
 
                 }
 
-                if (d != 1) {
-                    if (c != 0 || d != 0 && u != 0) {
+                if (d != 1 && u > 0) {
+                    if (c != 0 || d != 0 && u == 1) {
                         Console.Write(" e ");
                     }
 
                     switch (u) {
-                        case 1: { Console.Write(" um "); break; }
-                        case 2: { Console.Write(" dois "); break; }
-                        case 3: { Console.Write(" três "); break; }
-                        case 4: { Console.Write(" quatro "); break; }
-                        case 5: { Console.Write(" cinco "); break; }
-                        case 6: { Console.Write(" seis "); break; }
-                        case 7: { Console.Write(" sete "); break; }
-                        case 8: { Console.Write(" oito "); break; }
-                        case 9: { Console.Write(" nove "); break; }
+                        case 1: if (m == 0 && c == 0 && d ==0 ) { Console.Write(" Um "); } else { Console.Write(" um "); } break;
+                        case 2: if (m == 0 && c == 0 && d == 0) { Console.Write(" Dois "); } else { Console.Write(" dois "); } break;
+                        case 3: if (m == 0 && c == 0 && d == 0) { Console.Write(" Três "); } else { Console.Write(" três "); } break;
+                        case 4: if (m == 0 && c == 0 && d == 0) { Console.Write(" Quatro "); } else { Console.Write(" quatro "); } break;
+                        case 5: if (m == 0 && c == 0 && d == 0) { Console.Write(" Cinco "); } else { Console.Write(" cinco "); } break;
+                        case 6: if (m == 0 && c == 0 && d == 0) { Console.Write(" Seis "); } else { Console.Write(" seis "); } break;
+                        case 7: if (m == 0 && c == 0 && d == 0) { Console.Write(" Sete "); } else { Console.Write(" sete "); } break;
+                        case 8: if (m == 0 && c == 0 && d == 0) { Console.Write(" Oito "); } else { Console.Write(" oito "); } break;
+                        case 9: if (m == 0 && c == 0 && d == 0) { Console.Write(" Nove "); } else { Console.Write(" nove "); } break;
 
 
                     }
