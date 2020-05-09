@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\42 Começando a resolver um segundo problema exemplo\Aula42\Aula42\bin\Debug\netcoreapp3.0\Aula42.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\42 Começando a resolver um segundo problema exemplo\Aula42\Aula42\bin\Debug\netcoreapp3.0\Aula42.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\42 Começando a resolver um segundo problema exemplo\Aula42\Aula42\bin\Debug\netcoreapp3.0\Aula42.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\42 Começando a resolver um segundo problema exemplo\Aula42\Aula42\bin\Debug\netcoreapp3.0\Aula42.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\42 Começando a resolver um segundo problema exemplo\Aula42\Aula42\bin\Debug\netcoreapp3.0\Aula42.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\42 Começando a resolver um segundo problema exemplo\Aula42\Aula42\bin\Debug\netcoreapp3.0\Aula42.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\42 Começando a resolver um segundo problema exemplo\Aula42\Aula42\obj\Debug\netcoreapp3.0\Aula42.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\42 Começando a resolver um segundo problema exemplo\Aula42\Aula42\obj\Debug\netcoreapp3.0\Aula42.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\42 Começando a resolver um segundo problema exemplo\Aula42\Aula42\obj\Debug\netcoreapp3.0\Aula42.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\42 Começando a resolver um segundo problema exemplo\Aula42\Aula42\obj\Debug\netcoreapp3.0\Aula42.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\42 Começando a resolver um segundo problema exemplo\Aula42\Aula42\obj\Debug\netcoreapp3.0\Aula42.pdb

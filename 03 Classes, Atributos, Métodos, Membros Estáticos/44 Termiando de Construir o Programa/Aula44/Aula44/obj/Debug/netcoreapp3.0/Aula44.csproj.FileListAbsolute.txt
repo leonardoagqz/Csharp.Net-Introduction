@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\44 Termiando de Construir o Programa\Aula44\Aula44\bin\Debug\netcoreapp3.0\Aula44.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\44 Termiando de Construir o Programa\Aula44\Aula44\bin\Debug\netcoreapp3.0\Aula44.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\44 Termiando de Construir o Programa\Aula44\Aula44\bin\Debug\netcoreapp3.0\Aula44.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\44 Termiando de Construir o Programa\Aula44\Aula44\bin\Debug\netcoreapp3.0\Aula44.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\44 Termiando de Construir o Programa\Aula44\Aula44\bin\Debug\netcoreapp3.0\Aula44.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\44 Termiando de Construir o Programa\Aula44\Aula44\bin\Debug\netcoreapp3.0\Aula44.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\44 Termiando de Construir o Programa\Aula44\Aula44\obj\Debug\netcoreapp3.0\Aula44.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\44 Termiando de Construir o Programa\Aula44\Aula44\obj\Debug\netcoreapp3.0\Aula44.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\44 Termiando de Construir o Programa\Aula44\Aula44\obj\Debug\netcoreapp3.0\Aula44.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\44 Termiando de Construir o Programa\Aula44\Aula44\obj\Debug\netcoreapp3.0\Aula44.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\44 Termiando de Construir o Programa\Aula44\Aula44\obj\Debug\netcoreapp3.0\Aula44.pdb

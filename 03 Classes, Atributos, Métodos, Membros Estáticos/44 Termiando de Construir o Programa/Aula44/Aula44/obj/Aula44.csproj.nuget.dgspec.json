@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Classes, Atributos, Métodos, Membros Estáticos\\42 43 Resolvendo problemas e (Object e ToString)\\Aula42\\Aula42\\Aula42.csproj": {}
+    "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Classes, Atributos, Métodos, Membros Estáticos\\44 Termiando de Construir o Programa\\Aula44\\Aula44\\Aula44.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Classes, Atributos, Métodos, Membros Estáticos\\42 43 Resolvendo problemas e (Object e ToString)\\Aula42\\Aula42\\Aula42.csproj": {
+    "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Classes, Atributos, Métodos, Membros Estáticos\\44 Termiando de Construir o Programa\\Aula44\\Aula44\\Aula44.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Classes, Atributos, Métodos, Membros Estáticos\\42 43 Resolvendo problemas e (Object e ToString)\\Aula42\\Aula42\\Aula42.csproj",
-        "projectName": "Aula42",
-        "projectPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Classes, Atributos, Métodos, Membros Estáticos\\42 43 Resolvendo problemas e (Object e ToString)\\Aula42\\Aula42\\Aula42.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Classes, Atributos, Métodos, Membros Estáticos\\44 Termiando de Construir o Programa\\Aula44\\Aula44\\Aula44.csproj",
+        "projectName": "Aula44",
+        "projectPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Classes, Atributos, Métodos, Membros Estáticos\\44 Termiando de Construir o Programa\\Aula44\\Aula44\\Aula44.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Classes, Atributos, Métodos, Membros Estáticos\\42 43 Resolvendo problemas e (Object e ToString)\\Aula42\\Aula42\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Classes, Atributos, Métodos, Membros Estáticos\\44 Termiando de Construir o Programa\\Aula44\\Aula44\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
