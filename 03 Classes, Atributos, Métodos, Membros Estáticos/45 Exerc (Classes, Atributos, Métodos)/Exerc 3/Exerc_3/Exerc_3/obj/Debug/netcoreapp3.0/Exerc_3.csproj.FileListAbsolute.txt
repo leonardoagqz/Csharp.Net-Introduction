@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\45 Exerc (Classes, Atributos, Métodos)\Exerc 3\Exerc_3\Exerc_3\bin\Debug\netcoreapp3.0\Exerc_3.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\45 Exerc (Classes, Atributos, Métodos)\Exerc 3\Exerc_3\Exerc_3\bin\Debug\netcoreapp3.0\Exerc_3.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\45 Exerc (Classes, Atributos, Métodos)\Exerc 3\Exerc_3\Exerc_3\bin\Debug\netcoreapp3.0\Exerc_3.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\45 Exerc (Classes, Atributos, Métodos)\Exerc 3\Exerc_3\Exerc_3\bin\Debug\netcoreapp3.0\Exerc_3.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\45 Exerc (Classes, Atributos, Métodos)\Exerc 3\Exerc_3\Exerc_3\bin\Debug\netcoreapp3.0\Exerc_3.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\45 Exerc (Classes, Atributos, Métodos)\Exerc 3\Exerc_3\Exerc_3\bin\Debug\netcoreapp3.0\Exerc_3.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\45 Exerc (Classes, Atributos, Métodos)\Exerc 3\Exerc_3\Exerc_3\obj\Debug\netcoreapp3.0\Exerc_3.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\45 Exerc (Classes, Atributos, Métodos)\Exerc 3\Exerc_3\Exerc_3\obj\Debug\netcoreapp3.0\Exerc_3.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\45 Exerc (Classes, Atributos, Métodos)\Exerc 3\Exerc_3\Exerc_3\obj\Debug\netcoreapp3.0\Exerc_3.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\45 Exerc (Classes, Atributos, Métodos)\Exerc 3\Exerc_3\Exerc_3\obj\Debug\netcoreapp3.0\Exerc_3.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\03 Classes, Atributos, Métodos, Membros Estáticos\45 Exerc (Classes, Atributos, Métodos)\Exerc 3\Exerc_3\Exerc_3\obj\Debug\netcoreapp3.0\Exerc_3.pdb
