@@ -1,0 +1,10 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso - Cópia\NunExtenso\NunExtenso\obj\Debug\netcoreapp3.0\NunExtenso.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso - Cópia\NunExtenso\NunExtenso\obj\Debug\netcoreapp3.0\NunExtenso.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso - Cópia\NunExtenso\NunExtenso\bin\Debug\netcoreapp3.0\NunExtenso.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso - Cópia\NunExtenso\NunExtenso\bin\Debug\netcoreapp3.0\NunExtenso.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso - Cópia\NunExtenso\NunExtenso\bin\Debug\netcoreapp3.0\NunExtenso.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso - Cópia\NunExtenso\NunExtenso\bin\Debug\netcoreapp3.0\NunExtenso.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso - Cópia\NunExtenso\NunExtenso\bin\Debug\netcoreapp3.0\NunExtenso.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso - Cópia\NunExtenso\NunExtenso\bin\Debug\netcoreapp3.0\NunExtenso.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso - Cópia\NunExtenso\NunExtenso\obj\Debug\netcoreapp3.0\NunExtenso.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\01 Desafios\06-Escrever numero por extenso - Cópia\NunExtenso\NunExtenso\obj\Debug\netcoreapp3.0\NunExtenso.pdb

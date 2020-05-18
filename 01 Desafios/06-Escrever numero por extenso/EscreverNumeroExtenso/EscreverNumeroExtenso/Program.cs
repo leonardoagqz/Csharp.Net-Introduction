@@ -6,7 +6,7 @@ namespace EscreverNumeroExtenso {
 
             /*Declaração de variáveis*/
 
-            int valor, m, c, d, u;
+             int valor, m, c, d, u;
 
 
             Console.Write("Digite um valor entre 0 e 10.000!!: ");
@@ -17,8 +17,11 @@ namespace EscreverNumeroExtenso {
 
 
                 while (Convert.ToInt32(valorstr) < 0 || Convert.ToInt32(valorstr) > 10000) {
-                    Console.Write("Erro: Informe um valor entre 0 e 10.000!!: ");
+                    Console.WriteLine("Número invalido ");
+                    Console.WriteLine(" ");
+                    Console.Write("Digite um valor : ");
                     valorstr = Console.ReadLine();
+                    Console.WriteLine(" ");
 
                 }
 
@@ -64,7 +67,7 @@ namespace EscreverNumeroExtenso {
 
                     case 1:
                         if (c == 0 && d == 0 && u == 0) {
-                            Console.WriteLine(" Um Mil ");
+                            Console.WriteLine(" Um mil ");
                         }
                         else {
 
@@ -164,29 +167,16 @@ namespace EscreverNumeroExtenso {
                 }
 
                 if (d != 1 && u > 0) {
-                    if (c != 0 || d != 0 && u == 1) {
+                    if (m > 0 || c != 0 || d != 0 && u > 0) {
                         Console.Write(" e ");
                     }
 
-                    switch (u) {
-                        case 1: if (m == 0 && c == 0 && d ==0 ) { Console.Write(" Um "); } else { Console.Write(" um "); } break;
-                        case 2: if (m == 0 && c == 0 && d == 0) { Console.Write(" Dois "); } else { Console.Write(" dois "); } break;
-                        case 3: if (m == 0 && c == 0 && d == 0) { Console.Write(" Três "); } else { Console.Write(" três "); } break;
-                        case 4: if (m == 0 && c == 0 && d == 0) { Console.Write(" Quatro "); } else { Console.Write(" quatro "); } break;
-                        case 5: if (m == 0 && c == 0 && d == 0) { Console.Write(" Cinco "); } else { Console.Write(" cinco "); } break;
-                        case 6: if (m == 0 && c == 0 && d == 0) { Console.Write(" Seis "); } else { Console.Write(" seis "); } break;
-                        case 7: if (m == 0 && c == 0 && d == 0) { Console.Write(" Sete "); } else { Console.Write(" sete "); } break;
-                        case 8: if (m == 0 && c == 0 && d == 0) { Console.Write(" Oito "); } else { Console.Write(" oito "); } break;
-                        case 9: if (m == 0 && c == 0 && d == 0) { Console.Write(" Nove "); } else { Console.Write(" nove "); } break;
-
-
-                    }
-
+                   
 
 
                 }
 
-
+                
 
                 Console.WriteLine(" ");
                 Console.WriteLine("----------------------------------------");
@@ -201,7 +191,7 @@ namespace EscreverNumeroExtenso {
 
         }
 
-
+        
 
     }
 }
