@@ -1,0 +1,3 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\53 Alternativa inicializar valores\53AlterIniVal\53AlterIniVal\obj\Debug\netcoreapp3.0\53AlterIniVal.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\53 Alternativa inicializar valores\53AlterIniVal\53AlterIniVal\obj\Debug\netcoreapp3.0\53AlterIniVal.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\53 Alternativa inicializar valores\53AlterIniVal\53AlterIniVal\obj\Debug\netcoreapp3.0\53AlterIniVal.AssemblyInfo.cs

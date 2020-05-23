@@ -1,15 +1,9 @@
 ﻿using System;
 using System.Globalization;
-namespace Sobrecarga {
+
+namespace _53AlterIniVal {
     class Program {
-
-        /*Código da aula 44 reaproveitado para treinamento de Construtores/Sobrecarga*/
-
-
-
         static void Main(string[] args) {
-
-
             Console.WriteLine("Entre com os dados do produto");
             Console.Write("Nome: ");
             string nome = Console.ReadLine();
@@ -18,11 +12,8 @@ namespace Sobrecarga {
             Console.Write("Quantidade no estoque: ");
             int quantidade = int.Parse(Console.ReadLine());
 
-            /*Posso utilizar o construtor com 3 argumentos ou construtor com 2 argumentos
-              que foram criados na classe Produto*/
-            //Produto produto1 = new Produto(nome, preco, quantidade);
-            //Produto produto1 = new Produto(nome, preco);
-            Produto produto1 = new Produto(nome, preco);
+           //Alternativa para inicializar valores
+            Produto produto1 = new Produto { Nome = "TV", Preco = 500, Quantidade = 20 };
 
 
             Console.WriteLine();
@@ -39,7 +30,6 @@ namespace Sobrecarga {
             produto1.RemoverProdutos(qte);
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: " + produto1);
-
 
         }
     }
