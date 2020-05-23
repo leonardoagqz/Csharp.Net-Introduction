@@ -11,6 +11,3 @@ USOS COMUNS:
 
 Se um construtor customizado não for especificado, a classe disponibiliza o construtor padrão: Produto p = new produto();
 
-SOBRECARGA
-
-Quando é especificado mais de um contrutor na mesma classe
