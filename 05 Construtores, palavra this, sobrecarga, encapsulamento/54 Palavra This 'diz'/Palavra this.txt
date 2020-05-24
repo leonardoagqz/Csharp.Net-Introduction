@@ -1,0 +1,70 @@
+Palavra this / Como se lê "diz"
+
+
+**PRIMIRA APLICAÇÃO**
+
+É uma referência para o proprio objeto, Diferencia atributos de variáveis locais
+
+USOS COMUNS
+
+-Diferenciar atributos de variáveis locais
+-Referenciar um construtor em um contrutor
+-Passar o próprio objeto como argumento na chamada de um método ou construtor
+
+UTILIZAÇÃO
+
+public Produto(string Nome, double Preco){
+
+this.Nome = Nome;
+this.Preco = Preco;
+Quantidade = 0;
+
+/*O this.Nome indica que é um atributo da classe Produto, para diferenciar do parâmetro string Nome*/
+
+}
+
+
+**SEGUNDA APLICAÇÃO**
+
+Referenciar outro contrutor em um construtor
+
+
+//CONTRUTOR PADRAO
+public Produto(){
+
+Quantidade = 0;
+
+}
+
+
+//CONSTRUTOR
+//Reaproveitando Quantidade=0 do construtor padrão
+
+public Produto(string nome, double preco, int quantidade) : this() {
+
+Nome = nome;
+Preco = preco;
+
+
+
+/*Eu não preciso informar o atributo Quantidade=0, quando eu informo : this(){}, eu reaproveito do construtor padrão  */
+
+
+}
+
+
+
+//Reaproveitando nome e preco do construtor padrão
+
+public produto (sting nome, double preco, int quantidade) : this(nome,preco){
+
+Quantidade = quantidade;
+
+}
+
+
+
+
+
+
+

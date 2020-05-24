@@ -1,0 +1,3 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\54 Palavra This 'diz'\PalavraThis\PalavraThis\obj\Debug\netcoreapp3.0\PalavraThis.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\54 Palavra This 'diz'\PalavraThis\PalavraThis\obj\Debug\netcoreapp3.0\PalavraThis.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\54 Palavra This 'diz'\PalavraThis\PalavraThis\obj\Debug\netcoreapp3.0\PalavraThis.AssemblyInfo.cs
