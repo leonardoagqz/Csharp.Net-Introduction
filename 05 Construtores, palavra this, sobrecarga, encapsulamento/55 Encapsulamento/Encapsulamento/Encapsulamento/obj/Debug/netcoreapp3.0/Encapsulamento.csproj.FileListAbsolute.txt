@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\55 Encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\55 Encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\55 Encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\55 Encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\55 Encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\55 Encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\55 Encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\55 Encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\55 Encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\55 Encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\55 Encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.pdb

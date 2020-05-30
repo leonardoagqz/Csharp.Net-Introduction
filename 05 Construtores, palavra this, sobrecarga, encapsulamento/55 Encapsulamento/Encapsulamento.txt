@@ -1,0 +1,25 @@
+Encapsulamento é um principio que consiste em esconder detalhes de implementação
+de um componente, expondo apenas operações seguras e que o mantenha em um estado consistente.
+
+Analogia do aparelho de som portátil:
+Por dentro existe uma complexidade de implementações que não são vistas pelo usuário e por fora é
+exibido ao usuário somente o que ele precisa.
+
+
+#Implementação Manual
+
+-Todo atributo é definido como private
+-Implementa-se métodos Get(obter/buscar) e Set(definir/alterar)
+
+
+
+Tornar os atributos de uma classe como private, para que no programa principal só possar ser possivel alterar os valores
+desses atributos via métodos.
+
+Exemplo:
+
+Atributos
+
+private string _nome;
+private double _preco;
+private int _quantidade;
