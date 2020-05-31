@@ -1,0 +1,5 @@
+Properties/Propriedades
+
+Melhora a forma como é implementado o incapsulamento, não precisando mais chamar o Get e Set.
+
+As propriedades podem ser usadas como se fossem atributos públicos, mas na verdade elas são métodos especiais chamados "acessadores". Isso permite que os dadossejam acessados facilmente e ainda ajuda a promover a segurança e a flexibilidade dos métodos.

@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\56 Properties\Properties\Properties\bin\Debug\netcoreapp3.0\Properties.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\56 Properties\Properties\Properties\bin\Debug\netcoreapp3.0\Properties.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\56 Properties\Properties\Properties\bin\Debug\netcoreapp3.0\Properties.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\56 Properties\Properties\Properties\bin\Debug\netcoreapp3.0\Properties.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\56 Properties\Properties\Properties\bin\Debug\netcoreapp3.0\Properties.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\56 Properties\Properties\Properties\bin\Debug\netcoreapp3.0\Properties.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\56 Properties\Properties\Properties\obj\Debug\netcoreapp3.0\Properties.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\56 Properties\Properties\Properties\obj\Debug\netcoreapp3.0\Properties.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\56 Properties\Properties\Properties\obj\Debug\netcoreapp3.0\Properties.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\56 Properties\Properties\Properties\obj\Debug\netcoreapp3.0\Properties.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\56 Properties\Properties\Properties\obj\Debug\netcoreapp3.0\Properties.pdb
