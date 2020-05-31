@@ -1,0 +1,3 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\57 Auto Properties\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.0\AutoProperties.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\57 Auto Properties\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.0\AutoProperties.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\57 Auto Properties\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.0\AutoProperties.AssemblyInfo.cs
