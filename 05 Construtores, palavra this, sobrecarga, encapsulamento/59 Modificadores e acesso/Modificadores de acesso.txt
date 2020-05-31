@@ -1,0 +1,24 @@
+
+Membros                       podem ser acessados por
+
+>public                > propria classe / subclasses no assembly / classes do assembly / subclasses fora do assembly(de outro projeto) / classes fora do assembly   
+>protected internal    > propria classe / subclasses no assembly / classes do assembly / subclasses fora do assembly(de outro projeto)
+>internal              > propria classe / subclasses no assembly / classes do assembly
+>protected             > propria classe / subclasses no assembly /                     / subclasses fora do assembly(de outro projeto)
+>private protected     > propria classe / subclasses no assembly 
+>private               > propria classe
+
+
+
+Classes
+
+* Acesso por qualquer classe
+    * public class Produto
+
+* Acesso somente dentro do assembly
+    * internal clas Produto
+    * class produto
+
+* Acesso somente pela classe-mãe
+    * private class produto
+    * Nota: classe aninha, por pdrão, é private
