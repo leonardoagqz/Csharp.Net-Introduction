@@ -18,8 +18,33 @@ desses atributos via métodos.
 
 Exemplo:
 
+Classe Produtos;
 Atributos
 
 private string _nome;
 private double _preco;
 private int _quantidade;
+
+
+
+Exemplo 2
+
+Classe Carro
+
+// Essa é sua variável interna (privada)
+
+private string _cor;
+
+ 
+
+// Essa é sua propriedade pública.
+
+public string Cor
+
+{
+
+  get { return _cor; }
+
+  set { _cor = value; }
+
+}
