@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\60 61 62 Exercicios de Fixação\Parte 1\Parte1\Parte1\obj\Debug\netcoreapp3.0\Parte1.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\60 61 62 Exercicios de Fixação\Parte 1\Parte1\Parte1\obj\Debug\netcoreapp3.0\Parte1.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\60 61 62 Exercicios de Fixação\Parte 1\Parte1\Parte1\obj\Debug\netcoreapp3.0\Parte1.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\60 61 62 Exercicios de Fixação\Parte 1\Parte1\Parte1\bin\Debug\netcoreapp3.0\Parte1.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\60 61 62 Exercicios de Fixação\Parte 1\Parte1\Parte1\bin\Debug\netcoreapp3.0\Parte1.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\60 61 62 Exercicios de Fixação\Parte 1\Parte1\Parte1\bin\Debug\netcoreapp3.0\Parte1.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\60 61 62 Exercicios de Fixação\Parte 1\Parte1\Parte1\bin\Debug\netcoreapp3.0\Parte1.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\60 61 62 Exercicios de Fixação\Parte 1\Parte1\Parte1\bin\Debug\netcoreapp3.0\Parte1.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\60 61 62 Exercicios de Fixação\Parte 1\Parte1\Parte1\bin\Debug\netcoreapp3.0\Parte1.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\60 61 62 Exercicios de Fixação\Parte 1\Parte1\Parte1\obj\Debug\netcoreapp3.0\Parte1.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\05 Construtores, palavra this, sobrecarga, encapsulamento\60 61 62 Exercicios de Fixação\Parte 1\Parte1\Parte1\obj\Debug\netcoreapp3.0\Parte1.pdb
