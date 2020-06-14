@@ -1,0 +1,63 @@
+#Classes são tipos referencia#
+
+> Quando declaramos 
+    
+    Produto p1, p2;
+
+é "criado" duas variáveis na memória, mais especificamente é alocada em uma área de memória chamada "Stack" ou pilha e ainda não foi de fato alocada na memória
+
+> após a instanciação
+
+    p1 = new produto("TV", 900, 0);
+
+ai sim a variãvel é criada na memoria, mais especificamente é alocada em uma ária de memória chamada "Heap" ou carregar , o objeto será instanciado e terá um endereço 
+de memória Ex(0x100358) esse código é a posição em que se encontr o objeto na memória.
+
+A variavel 'p1' tbm receberá o mesmo endereço do objeto Ex(0x100358), por esse motivo a variável p1 é o "ponteiro" ou uma referencia para o objeto.
+
+
+caso p2 = p1, o p2 passa a apontar para onde aponta o p1, ou seja para o mesmo enderepo de memoria Ex(0x100358)
+
+
+
+#Valor "null"#
+
+Tpos referencia aceitam o valor "null", que indica que a variavel aponta para ninguem.
+
+Vamos supor que temos as variáveis (Produto p1, p2; e que o produto p1 foi instanciado (p1 = new produto("TV", 900,0);) 
+
+p1 recebe o endereço de memória do objeto Ex(0x100358)
+
+e colocamos o p2 como (p2=null;) p2 não irá apontar para nenhum endereço.
+
+
+
+#Structs são tipos valor#
+
+Structs são caixas e não Ponteiros;
+
+Suponhamos que temos as variáveis, double x, y;, e instanciarmos x=10; e y=x; as duas variáveis ficariam alocadas na mémoria "Stack" x=10 e y=10;
+
+
+Ex Structs = sbyte, short, int, long, byte, ushort, float, double, decimal, char, bool..
+
+
+--Inicialização de um Struct--
+
+Ecercicio
+
+
+#Valores Padrão#
+
+Quando alocamos (new) qualquer tipo estruturado (classe, struct, array), são atribuidos valores padrão aos seus elementos
+
+> numeros:0 
+> bool: false
+> char: caractes código 0
+> objeto: null
+
+
+* Uma variavel apenas declarada, mas não instanciada, inicia em estado "não atribuida", e o próprio compilador não permite que sela seja acessada.
+
+ 		
+
