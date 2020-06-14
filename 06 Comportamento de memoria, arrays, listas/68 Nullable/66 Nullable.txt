@@ -1,0 +1,32 @@
+#Nullable#
+
+É um recurso de C# para que dados de tipo valor(structs) possam receber valor null
+
+-Uso comum:
+
+Campos de banco de dados que podem valer nulo (data de nascimento, algm valor numérico, etc..)
+Dados e parâmetros opcionais.
+
+
+
+--Demonstração de uso--
+
+
+double x = null;
+
+Nullable<double> x = null;
+
+ou
+
+double? x = null;
+
+
+Métodos:
+
+GetvalueOrDefault
+HasValue
+Value(lança uma exceção se não houver valor)
+
+
+
+> Um nullable não pode ser atributo para um struct comum
