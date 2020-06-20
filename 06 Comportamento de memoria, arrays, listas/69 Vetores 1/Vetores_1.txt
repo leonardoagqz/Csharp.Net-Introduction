@@ -1,0 +1,27 @@
+﻿Checklist
+
+
+
+*revisão do concceito de vetor
+
+*manipulação de vetor de elementos tipo structs
+
+*manipulação de vetor de elementos tipos classe
+
+*acesso aos elementos 
+
+* Propriedade Length
+
+
+
+Vetor = arranjos unidimensionais.
+
+
+
+Arranjo é uma estrutura de dados Homogênea(dados do mesmo tipo),
+ Ordenada(elementos acessados por meio de posição),
+ Alocada de uma ves só, em um bloco de memória;
+^M
+^M
+Teste
+

@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\69 Vetores 1\Vetores_1\Vetores_1\bin\Debug\netcoreapp3.0\Vetores_1.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\69 Vetores 1\Vetores_1\Vetores_1\bin\Debug\netcoreapp3.0\Vetores_1.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\69 Vetores 1\Vetores_1\Vetores_1\bin\Debug\netcoreapp3.0\Vetores_1.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\69 Vetores 1\Vetores_1\Vetores_1\bin\Debug\netcoreapp3.0\Vetores_1.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\69 Vetores 1\Vetores_1\Vetores_1\bin\Debug\netcoreapp3.0\Vetores_1.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\69 Vetores 1\Vetores_1\Vetores_1\bin\Debug\netcoreapp3.0\Vetores_1.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\69 Vetores 1\Vetores_1\Vetores_1\obj\Debug\netcoreapp3.0\Vetores_1.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\69 Vetores 1\Vetores_1\Vetores_1\obj\Debug\netcoreapp3.0\Vetores_1.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\69 Vetores 1\Vetores_1\Vetores_1\obj\Debug\netcoreapp3.0\Vetores_1.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\69 Vetores 1\Vetores_1\Vetores_1\obj\Debug\netcoreapp3.0\Vetores_1.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\69 Vetores 1\Vetores_1\Vetores_1\obj\Debug\netcoreapp3.0\Vetores_1.pdb
