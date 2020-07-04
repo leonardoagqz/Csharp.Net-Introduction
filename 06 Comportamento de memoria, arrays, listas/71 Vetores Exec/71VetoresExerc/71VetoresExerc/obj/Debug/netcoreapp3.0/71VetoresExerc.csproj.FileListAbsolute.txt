@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\71 Vetores Exec\71VetoresExerc\71VetoresExerc\obj\Debug\netcoreapp3.0\71VetoresExerc.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\71 Vetores Exec\71VetoresExerc\71VetoresExerc\obj\Debug\netcoreapp3.0\71VetoresExerc.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\71 Vetores Exec\71VetoresExerc\71VetoresExerc\obj\Debug\netcoreapp3.0\71VetoresExerc.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\71 Vetores Exec\71VetoresExerc\71VetoresExerc\bin\Debug\netcoreapp3.0\71VetoresExerc.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\71 Vetores Exec\71VetoresExerc\71VetoresExerc\bin\Debug\netcoreapp3.0\71VetoresExerc.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\71 Vetores Exec\71VetoresExerc\71VetoresExerc\bin\Debug\netcoreapp3.0\71VetoresExerc.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\71 Vetores Exec\71VetoresExerc\71VetoresExerc\bin\Debug\netcoreapp3.0\71VetoresExerc.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\71 Vetores Exec\71VetoresExerc\71VetoresExerc\bin\Debug\netcoreapp3.0\71VetoresExerc.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\71 Vetores Exec\71VetoresExerc\71VetoresExerc\bin\Debug\netcoreapp3.0\71VetoresExerc.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\71 Vetores Exec\71VetoresExerc\71VetoresExerc\obj\Debug\netcoreapp3.0\71VetoresExerc.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\71 Vetores Exec\71VetoresExerc\71VetoresExerc\obj\Debug\netcoreapp3.0\71VetoresExerc.pdb
