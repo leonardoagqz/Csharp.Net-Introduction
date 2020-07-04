@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\73 Modificado de Parâmetro ref e out\ref e out\ref e out\bin\Debug\netcoreapp3.0\ref e out.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\73 Modificado de Parâmetro ref e out\ref e out\ref e out\bin\Debug\netcoreapp3.0\ref e out.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\73 Modificado de Parâmetro ref e out\ref e out\ref e out\bin\Debug\netcoreapp3.0\ref e out.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\73 Modificado de Parâmetro ref e out\ref e out\ref e out\bin\Debug\netcoreapp3.0\ref e out.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\73 Modificado de Parâmetro ref e out\ref e out\ref e out\bin\Debug\netcoreapp3.0\ref e out.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\73 Modificado de Parâmetro ref e out\ref e out\ref e out\bin\Debug\netcoreapp3.0\ref e out.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\73 Modificado de Parâmetro ref e out\ref e out\ref e out\obj\Debug\netcoreapp3.0\ref e out.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\73 Modificado de Parâmetro ref e out\ref e out\ref e out\obj\Debug\netcoreapp3.0\ref e out.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\73 Modificado de Parâmetro ref e out\ref e out\ref e out\obj\Debug\netcoreapp3.0\ref e out.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\73 Modificado de Parâmetro ref e out\ref e out\ref e out\obj\Debug\netcoreapp3.0\ref e out.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\73 Modificado de Parâmetro ref e out\ref e out\ref e out\obj\Debug\netcoreapp3.0\ref e out.pdb
