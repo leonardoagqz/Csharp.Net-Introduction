@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\75 Sintaxe opcional laço foreach\laco foreach\laco foreach\bin\Debug\netcoreapp3.0\laco foreach.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\75 Sintaxe opcional laço foreach\laco foreach\laco foreach\bin\Debug\netcoreapp3.0\laco foreach.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\75 Sintaxe opcional laço foreach\laco foreach\laco foreach\bin\Debug\netcoreapp3.0\laco foreach.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\75 Sintaxe opcional laço foreach\laco foreach\laco foreach\bin\Debug\netcoreapp3.0\laco foreach.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\75 Sintaxe opcional laço foreach\laco foreach\laco foreach\bin\Debug\netcoreapp3.0\laco foreach.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\75 Sintaxe opcional laço foreach\laco foreach\laco foreach\bin\Debug\netcoreapp3.0\laco foreach.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\75 Sintaxe opcional laço foreach\laco foreach\laco foreach\obj\Debug\netcoreapp3.0\laco foreach.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\75 Sintaxe opcional laço foreach\laco foreach\laco foreach\obj\Debug\netcoreapp3.0\laco foreach.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\75 Sintaxe opcional laço foreach\laco foreach\laco foreach\obj\Debug\netcoreapp3.0\laco foreach.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\75 Sintaxe opcional laço foreach\laco foreach\laco foreach\obj\Debug\netcoreapp3.0\laco foreach.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\75 Sintaxe opcional laço foreach\laco foreach\laco foreach\obj\Debug\netcoreapp3.0\laco foreach.csprojAssemblyReference.cache
