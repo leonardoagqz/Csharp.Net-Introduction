@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\74 Boxing e unboxing\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.0\BoxingUnboxing.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\74 Boxing e unboxing\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.0\BoxingUnboxing.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\74 Boxing e unboxing\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.0\BoxingUnboxing.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\74 Boxing e unboxing\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.0\BoxingUnboxing.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\74 Boxing e unboxing\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.0\BoxingUnboxing.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\74 Boxing e unboxing\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.0\BoxingUnboxing.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\74 Boxing e unboxing\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.0\BoxingUnboxing.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\74 Boxing e unboxing\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.0\BoxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\74 Boxing e unboxing\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.0\BoxingUnboxing.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\74 Boxing e unboxing\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.0\BoxingUnboxing.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\06 Comportamento de memoria, arrays, listas\74 Boxing e unboxing\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.0\BoxingUnboxing.pdb
