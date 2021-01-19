@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\ExercicodeFixacao\\ExercicodeFixacao\\ExercicodeFixacao.csproj": {}
+    "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Introdução C#\\04 - ExercicodeFixacao\\ExercicodeFixacao\\ExercicodeFixacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\ExercicodeFixacao\\ExercicodeFixacao\\ExercicodeFixacao.csproj": {
+    "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Introdução C#\\04 - ExercicodeFixacao\\ExercicodeFixacao\\ExercicodeFixacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\ExercicodeFixacao\\ExercicodeFixacao\\ExercicodeFixacao.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Introdução C#\\04 - ExercicodeFixacao\\ExercicodeFixacao\\ExercicodeFixacao.csproj",
         "projectName": "ExercicodeFixacao",
-        "projectPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\ExercicodeFixacao\\ExercicodeFixacao\\ExercicodeFixacao.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Introdução C#\\04 - ExercicodeFixacao\\ExercicodeFixacao\\ExercicodeFixacao.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\ExercicodeFixacao\\ExercicodeFixacao\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Introdução C#\\04 - ExercicodeFixacao\\ExercicodeFixacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

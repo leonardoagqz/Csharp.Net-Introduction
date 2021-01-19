@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\Xadrez-main\Xadrez-main\Xadrez-main\bin\Debug\netcoreapp3.0\Xadrez-main.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\Xadrez-main\Xadrez-main\Xadrez-main\bin\Debug\netcoreapp3.0\Xadrez-main.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\Xadrez-main\Xadrez-main\Xadrez-main\bin\Debug\netcoreapp3.0\Xadrez-main.runtimeconfig.json
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\Xadrez-main\Xadrez-main\Xadrez-main\bin\Debug\netcoreapp3.0\Xadrez-main.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\Xadrez-main\Xadrez-main\Xadrez-main\bin\Debug\netcoreapp3.0\Xadrez-main.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\Xadrez-main\Xadrez-main\Xadrez-main\bin\Debug\netcoreapp3.0\Xadrez-main.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\Xadrez-main\Xadrez-main\Xadrez-main\obj\Debug\netcoreapp3.0\Xadrez-main.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\Xadrez-main\Xadrez-main\Xadrez-main\obj\Debug\netcoreapp3.0\Xadrez-main.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\Xadrez-main\Xadrez-main\Xadrez-main\obj\Debug\netcoreapp3.0\Xadrez-main.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\Xadrez-main\Xadrez-main\Xadrez-main\obj\Debug\netcoreapp3.0\Xadrez-main.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\Xadrez-main\Xadrez-main\Xadrez-main\obj\Debug\netcoreapp3.0\Xadrez-main.pdb

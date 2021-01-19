@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\ws-vs2019\\Primeiro\\Primeiro\\Primeiro.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Introdução C#\\01 - ws-vs2019\\Primeiro\\Primeiro\\Primeiro.csproj",
       "projectName": "Primeiro",
-      "projectPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\ws-vs2019\\Primeiro\\Primeiro\\Primeiro.csproj",
+      "projectPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Introdução C#\\01 - ws-vs2019\\Primeiro\\Primeiro\\Primeiro.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\ws-vs2019\\Primeiro\\Primeiro\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\03 Introdução C#\\01 - ws-vs2019\\Primeiro\\Primeiro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

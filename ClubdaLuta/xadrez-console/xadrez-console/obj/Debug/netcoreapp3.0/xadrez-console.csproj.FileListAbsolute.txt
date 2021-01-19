@@ -1,0 +1,16 @@
+C:\Users\Administrador\source\repos\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.0\xadrez-console.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.0\xadrez-console.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.0\xadrez-console.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\xadrez-console\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.0\xadrez-console.exe
+C:\Users\Administrador\source\repos\xadrez-console\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.0\xadrez-console.deps.json
+C:\Users\Administrador\source\repos\xadrez-console\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.0\xadrez-console.runtimeconfig.json
+C:\Users\Administrador\source\repos\xadrez-console\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.0\xadrez-console.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\xadrez-console\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.0\xadrez-console.dll
+C:\Users\Administrador\source\repos\xadrez-console\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.0\xadrez-console.pdb
+C:\Users\Administrador\source\repos\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.0\xadrez-console.dll
+C:\Users\Administrador\source\repos\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.0\xadrez-console.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.0\xadrez-console.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.0\xadrez-console.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.0\xadrez-console.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.0\xadrez-console.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\ClubdaLuta\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.0\xadrez-console.pdb
