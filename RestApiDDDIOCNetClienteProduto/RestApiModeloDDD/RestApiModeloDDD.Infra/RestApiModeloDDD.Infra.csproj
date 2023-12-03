@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+   
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="7.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RestApiModeloDDD.Application\RestApiModeloDDD.Application.csproj" />
+    <ProjectReference Include="..\RestApiModeloDDD.Domain.Core\RestApiModeloDDD.Domain.Core.csproj" />
+    <ProjectReference Include="..\RestApiModeloDDD.Domain\RestApiModeloDDD.Domain.csproj" />
+	  <ProjectReference Include="..\RestApiModeloDDD.Domain.Services\RestApiModeloDDD.Domain.Services.csproj" />
+	  <ProjectReference Include="..\RestApiModeloDDD.Domain\RestApiModeloDDD.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

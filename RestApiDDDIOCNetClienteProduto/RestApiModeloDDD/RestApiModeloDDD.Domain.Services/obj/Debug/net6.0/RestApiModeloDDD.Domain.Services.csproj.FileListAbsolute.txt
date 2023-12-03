@@ -1,0 +1,4 @@
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\net6.0\RestApiModeloDDD.Domain.Services.csproj.AssemblyReference.cache
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\net6.0\RestApiModeloDDD.Domain.Services.AssemblyInfoInputs.cache
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\net6.0\RestApiModeloDDD.Domain.Services.AssemblyInfo.cs
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\net6.0\RestApiModeloDDD.Domain.Services.csproj.CoreCompileInputs.cache

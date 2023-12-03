@@ -1,0 +1,34 @@
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Application.deps.json
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Application.dll
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Application.pdb
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Domain.Core.dll
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Domain.dll
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Domain.pdb
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Domain.Core.pdb
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.csproj.AssemblyReference.cache
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.AssemblyInfoInputs.cache
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.AssemblyInfo.cs
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.csproj.CoreCompileInputs.cache
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.csproj.CopyComplete
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.dll
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\refint\RestApiModeloDDD.Application.dll
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.pdb
+D:\03Projetos\C#\RestApiDDDEFDockerIOCNETCore\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\ref\RestApiModeloDDD.Application.dll
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Application.deps.json
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Application.dll
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Application.pdb
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Domain.Core.dll
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Domain.dll
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Domain.pdb
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net6.0\RestApiModeloDDD.Domain.Core.pdb
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.csproj.AssemblyReference.cache
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.AssemblyInfoInputs.cache
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.AssemblyInfo.cs
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.csproj.CoreCompileInputs.cache
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.csproj.CopyComplete
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.dll
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\refint\RestApiModeloDDD.Application.dll
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\RestApiModeloDDD.Application.pdb
+D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net6.0\ref\RestApiModeloDDD.Application.dll
