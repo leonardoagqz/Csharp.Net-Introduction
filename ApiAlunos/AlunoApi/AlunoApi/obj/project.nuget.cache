@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D4/8Fu5jLx/inN+reXy83E/yz0NepUBWaEyhSL2ZDNudJ7K9f0n2UV8vpPj5IlKLuKR2jW9YTuW//eRCRPEWIg==",
+  "dgSpecHash": "4ITpq0man3Hj0kxnE4GLjrwK512PseCLZskIn4UWfvBgJdyR9IhxOy4p+YvZeH2fKSvbrky9h14OUlwGXSvp7w==",
   "success": true,
-  "projectFilePath": "D:\\03Projetos\\C#\\ApiAlunos\\AlunoApi\\AlunoApi\\AlunoApi.csproj",
+  "projectFilePath": "D:\\03Projetos\\C#\\Introdução ao .NET\\ApiAlunos\\AlunoApi\\AlunoApi\\AlunoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
