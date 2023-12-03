@@ -893,7 +893,7 @@
           "RestApiModeloDDD.Domain.Services": "1.0.0"
         },
         "runtime": {
-          "RestApiModeloDDD.infra.dll": {}
+          "RestApiModeloDDD.Infra.dll": {}
         }
       }
     }

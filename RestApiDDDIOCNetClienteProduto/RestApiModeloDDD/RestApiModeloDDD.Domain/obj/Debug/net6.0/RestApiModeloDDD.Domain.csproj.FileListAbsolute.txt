@@ -20,3 +20,14 @@ D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiMode
 D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\net6.0\refint\RestApiModeloDDD.Domain.dll
 D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\net6.0\RestApiModeloDDD.Domain.pdb
 D:\03Projetos\C#\Introdução ao .NET\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\net6.0\ref\RestApiModeloDDD.Domain.dll
+D:\03Projetos\C#\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\bin\Debug\net6.0\RestApiModeloDDD.Domain.deps.json
+D:\03Projetos\C#\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\bin\Debug\net6.0\RestApiModeloDDD.Domain.dll
+D:\03Projetos\C#\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\bin\Debug\net6.0\RestApiModeloDDD.Domain.pdb
+D:\03Projetos\C#\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\net6.0\RestApiModeloDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\03Projetos\C#\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\net6.0\RestApiModeloDDD.Domain.AssemblyInfoInputs.cache
+D:\03Projetos\C#\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\net6.0\RestApiModeloDDD.Domain.AssemblyInfo.cs
+D:\03Projetos\C#\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\net6.0\RestApiModeloDDD.Domain.csproj.CoreCompileInputs.cache
+D:\03Projetos\C#\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\net6.0\RestApiModeloDDD.Domain.dll
+D:\03Projetos\C#\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\net6.0\refint\RestApiModeloDDD.Domain.dll
+D:\03Projetos\C#\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\net6.0\RestApiModeloDDD.Domain.pdb
+D:\03Projetos\C#\RestApiDDDIOCNetClienteProduto\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\net6.0\ref\RestApiModeloDDD.Domain.dll

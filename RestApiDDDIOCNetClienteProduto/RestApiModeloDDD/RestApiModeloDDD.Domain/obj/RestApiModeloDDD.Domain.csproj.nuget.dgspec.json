@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\03Projetos\\C#\\Introdução ao .NET\\RestApiDDDIOCNetClienteProduto\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj": {}
+    "D:\\03Projetos\\C#\\RestApiDDDIOCNetClienteProduto\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj": {}
   },
   "projects": {
-    "D:\\03Projetos\\C#\\Introdução ao .NET\\RestApiDDDIOCNetClienteProduto\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj": {
+    "D:\\03Projetos\\C#\\RestApiDDDIOCNetClienteProduto\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\03Projetos\\C#\\Introdução ao .NET\\RestApiDDDIOCNetClienteProduto\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj",
+        "projectUniqueName": "D:\\03Projetos\\C#\\RestApiDDDIOCNetClienteProduto\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj",
         "projectName": "RestApiModeloDDD.Domain",
-        "projectPath": "D:\\03Projetos\\C#\\Introdução ao .NET\\RestApiDDDIOCNetClienteProduto\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj",
+        "projectPath": "D:\\03Projetos\\C#\\RestApiDDDIOCNetClienteProduto\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\03Projetos\\C#\\Introdução ao .NET\\RestApiDDDIOCNetClienteProduto\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\obj\\",
+        "outputPath": "D:\\03Projetos\\C#\\RestApiDDDIOCNetClienteProduto\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

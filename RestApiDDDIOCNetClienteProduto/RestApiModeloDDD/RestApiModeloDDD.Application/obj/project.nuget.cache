@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BTBjP1jLB0I200NTaP98xxnVl/qI7siyuCtKubOqDms1YYR4cTRWWkB1YLtjsqcDFkSsvaYmunp4iuxNw4HxEg==",
+  "dgSpecHash": "w38/md0JSXAuXPMyDyirQRQmutcHRBway8iqF16HvV9u8togX1fXPrKnkIhScv7LLaovvXpT4+2iSc7cRevDvA==",
   "success": true,
-  "projectFilePath": "D:\\03Projetos\\C#\\Introdução ao .NET\\RestApiDDDIOCNetClienteProduto\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj",
+  "projectFilePath": "D:\\03Projetos\\C#\\RestApiDDDIOCNetClienteProduto\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
